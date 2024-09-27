@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hei, jeg heter Lars!
 
 <!--
 **larshberger/larshberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+H
 
 Here are some ideas to get you started:
 
